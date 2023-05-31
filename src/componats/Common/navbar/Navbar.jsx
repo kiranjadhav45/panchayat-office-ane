@@ -1,7 +1,5 @@
 import "./Navbar.css";
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
-// import { useNavigate } from "react-router-dom";
 import { useTranslation, initReactI18next } from "react-i18next";
 import i18n from "i18next";
 import { AiOutlineMenu } from "react-icons/ai";
@@ -11,9 +9,7 @@ const Navbar = () => {
   const [showNav, setShowNav] = useState(false);
   const [showLang, setShowLang] = useState(false);
 
-  //   const navigate = useNavigate();
   const changeLang = (l) => {
-    //alert('OK');
     return () => {
       i18n.changeLanguage(l);
       localStorage.setItem("lang", l);
@@ -25,9 +21,6 @@ const Navbar = () => {
     i18n.changeLanguage(currentLang);
   }, []);
 
-  //   <h1> Navbar</h1>
-  //   <button onClick={changeLang("en")}>English</button>
-  //   <button onClick={changeLang("mr")}>Marathi</button>
   return (
     <nav>
       <div className="nav-container py-2">
