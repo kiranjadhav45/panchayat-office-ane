@@ -3,7 +3,7 @@
 
 ## Installation
 
-Run This PRoject Locally
+Run This Project Locally
 
 ```bash
 
