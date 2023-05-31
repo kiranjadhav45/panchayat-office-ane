@@ -40,3 +40,13 @@ See `contributing.md` for ways to get started.
 
 
 Please adhere to this project's `code of conduct`.
+
+## 🚀 About Me
+I'm a full stack developer...
+
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
+
+
