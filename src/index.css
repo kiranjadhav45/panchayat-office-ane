@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Readex+Pro:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  font-family: "Figtree", sans-serif;
+  font-family: "Readex Pro", sans-serif;
+}
+:root {
+  font-size: 62.5%;
+  /* font-size: 100%; */
+}
