@@ -1,44 +1,42 @@
 # panchayat-office-ane
 
 
-## Installation
+## Run Locally
 
-Run This Project Locally
+Clone the project
 
 ```bash
-
   git clone https://github.com/kiranjadhav45/panchayat-office-ane.git
-   
 ```
-    
-   
-   Go to the Directory
+
+Go to the project directory
 
 ```bash
-
- cd panchayat-office-ane
-  
+  cd panchayat-office-ane
 ```
 
- Install npm pakages
+Install dependencies
 
 ```bash
-
- npm install
-  
+  npm install
 ```
-Run
+
+Start the server
 
 ```bash
-
- npm run dev
-  
+  npm run dev
 ```
+
 
 ## Contributing
 
 Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
+
+## Authors
+
+- [@kiranjadhav45](https://github.com/kiranjadhav45)
+
 
 Please adhere to this project's `code of conduct`.
