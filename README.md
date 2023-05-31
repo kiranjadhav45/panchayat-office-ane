@@ -1,13 +1,36 @@
 # panchayat-office-ane
 
-how to run locally 
 
-run bellow command on your terminal 
+## Installation
 
-git clone https://github.com/kiranjadhav45/panchayat-office-ane.git
+Install my-project with npm
 
-cd panchayat-office-ane 
+```bash
 
-npm install 
+  git clone https://github.com/kiranjadhav45/panchayat-office-ane.git
+   
+```
+    
+   
+   Go to the Directory
 
-npm run dev
+```bash
+
+ cd panchayat-office-ane
+  
+```
+
+ Install npm pakages
+
+```bash
+
+ npm Install
+  
+```
+Run
+
+```bash
+
+ npm run dev
+  
+```
