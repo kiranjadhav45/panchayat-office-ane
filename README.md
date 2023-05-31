@@ -3,7 +3,7 @@
 
 ## Installation
 
-Install my-project with npm
+Run This PRoject Locally
 
 ```bash
 
@@ -24,7 +24,7 @@ Install my-project with npm
 
 ```bash
 
- npm Install
+ npm install
   
 ```
 Run
