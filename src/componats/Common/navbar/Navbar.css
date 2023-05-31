@@ -19,12 +19,13 @@ nav {
 }
 .nav-items span {
   font-size: 1.2rem;
+  cursor: pointer;
 }
 .menu-bar {
   display: none;
 }
-.drop-dwon-menu {
-  display: none;
+.drop-dwon-menu span {
+  cursor: pointer;
 }
 .drop-dwon-menu {
   display: flex;
